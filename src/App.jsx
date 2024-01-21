@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "jrxag_official",
   linkedIn: "jasawnthremielag",
   medium: "jasawnthremiel",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "jaswanth_remiel",
+  youTube: "jaswanthremiel",
 };
 
 const primaryColor = "#4E567E";
