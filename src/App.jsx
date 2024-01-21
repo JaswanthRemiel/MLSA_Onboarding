@@ -29,8 +29,8 @@ const siteProps = {
   email: "Jaswanth.RemielAG@studentambassadors.com",
   gitHub: "jaswanth_remiel",
   instagram: "jrxag_official",
-  linkedIn: "jasawnthremielag",
-  medium: "jasawnthremiel",
+  linkedIn: "jasawnthremiel",
+  medium: "jaswanthremiel",
   twitter: "jaswanth_remiel",
   youTube: "jaswanthremiel",
 };
